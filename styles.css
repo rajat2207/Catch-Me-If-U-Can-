@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+#canvas{
+    width:92vw;
+    height:84vh;
+    position: relative;
+    /* border:2px solid black; */
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+    border: 1px solid grey;
+    position: absolute;
+    /* display: flex */
+    text-align: center;
+    color: white ;
+}
+
+span{
+    /* padding-top:40px ; */
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
